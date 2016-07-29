@@ -1,0 +1,2 @@
+# seledbox
+Selective Dropbox syncronization
